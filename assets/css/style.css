@@ -31,7 +31,8 @@ p {
     text-align: center;
 }
 
-.btn, .btn:hover {
+.btn,
+.btn:hover {
     color: #fff;
     background: var(--primary-color);
     cursor: pointer;
@@ -251,7 +252,7 @@ footer {
 }
 
 .theme-switch-chathams_blue:hover {
-  box-shadow: 2px 2px 2px var(--chathams_blue);
+    box-shadow: 2px 2px 2px var(--chathams_blue);
 }
 
 .theme-switch-tamarillo {
@@ -259,7 +260,7 @@ footer {
 }
 
 .theme-switch-tamarillo:hover {
-  box-shadow: 2px 2px 2px var(--tamarillo);
+    box-shadow: 2px 2px 2px var(--tamarillo);
 }
 
 .theme-switch-yellow_sea {
@@ -267,5 +268,5 @@ footer {
 }
 
 .theme-switch-yellow_sea:hover {
-  box-shadow: 2px 2px 2px var(--yellow_sea);
+    box-shadow: 2px 2px 2px var(--yellow_sea);
 }
